@@ -1,0 +1,46 @@
+{
+    "usa": {
+        "clicks": {
+            "Jan": {
+                "valid": 50,
+                "total": 100
+            },
+            "Feb": {
+                "valid": 70,
+                "total": 100
+            }
+        },
+        "revenue": {
+            "Jan": {
+                "valid": 300,
+                "total": 1000
+            },
+            "Feb": {
+                "valid": 400,
+                "total": 1200
+            }
+        }
+    },
+    "ca": {
+        "clicks": {
+            "Jan": {
+                "valid": 5000,
+                "total": 100000
+            },
+            "Feb": {
+                "valid": 100,
+                "total": 20000
+            }
+        },
+        "revenue": {
+            "Jan": {
+                "valid": 1000,
+                "total": 13000
+            },
+            "Feb": {
+                "valid": 111000,
+                "total": 10000000
+            }
+        }
+    }
+}
